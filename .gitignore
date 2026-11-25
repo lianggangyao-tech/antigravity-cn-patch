@@ -1,0 +1,10 @@
+# Local backup & temporary files
+backup/
+*.cn-tmp
+*.bak
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
